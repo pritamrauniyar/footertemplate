@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flex-all-center{
+    height: 12vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    
+    background-color: black;
+    color: white;
+    
+}
+footer p a{
+    text-decoration: none;
+    color: white;
+}
+footer p a:hover{
+    color: blue;
+}
